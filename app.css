@@ -26,7 +26,7 @@ body{
     flex-direction: column;
     align-items: center;
     padding: 14px;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 img{
@@ -39,22 +39,22 @@ img{
     flex-direction: column;
     align-items: center;
     margin-top: 20px;
-    width: 280px;
+    width: 270px;
     gap: 13px;
 }
 
 .first-text{
     font-weight: 900;
-    font-size: 18px;
-    width: 245px;
+    width: 260px;
     text-align: center;
+    font-size: 18px;
     
 }
 
 .second-text{
     font-size: 14px;
     font-weight: 400;
-    width: 240px;
+    width: 230px;
     text-align: center;
     color: rgb(146, 154, 161);
 }
