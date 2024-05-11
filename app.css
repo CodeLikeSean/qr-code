@@ -19,7 +19,7 @@ body{
 
 .qr-container{
     width: 280px;
-    height: 420px;
+    height: 430px;
     border: 10px, solid, pink;
     background-color: white;
     display: flex;
@@ -37,18 +37,24 @@ img{
 .all-text{
     display: flex;
     flex-direction: column;
+    align-items: center;
     margin-top: 20px;
-    width: 250px;
+    width: 280px;
     gap: 13px;
 }
 
 .first-text{
     font-weight: 900;
+    font-size: 18px;
+    width: 245px;
     text-align: center;
+    
 }
 
 .second-text{
     font-size: 14px;
     font-weight: 400;
+    width: 240px;
     text-align: center;
+    color: rgb(146, 154, 161);
 }
